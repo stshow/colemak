@@ -1,5 +1,5 @@
 # colemak
-A brief README for transitioning to Colemak, an ergonomic alternative to QWERTY. Colemak is a built-in for most modern Linux distros, but custom XKB profiles are necessary to use Tarmak. 
+A brief README for transitioning to Colemak, an ergonomic alternative to QWERTY. Colemak is a built-in for most modern Linux distros, but custom XKB layouts are necessary to use Tarmak. 
 
 ## Standard US PC105 layout (QWERTY)
 
