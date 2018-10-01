@@ -15,7 +15,7 @@ alias us='setxkbmap us && setxkbmap -option caps:backspace && xset r 66'
     
 ## Backup location:
 
-    4.)  ls -lh /usr/share/X11/ # 'mv dbak-xkb* xkb to restore. 
+    4.)  ls -lh /usr/share/X11/ # 'mv dbak-xkb* xkb' to restore. 
     
 ## Bash alias'
 
