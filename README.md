@@ -29,6 +29,15 @@ alias colemak='setxkbmap us -variant colemak -option caps:backspace && xset r 66
 
 ##### Tested on Arch Linux (10/1/2018) and Ubuntu 18.04
 
+## A more 'permanent' method
+
+Use https://github.com/stshow/tarmak-cli (a fork of https://github.com/azmr/tarmak-cli 2018-10-10 ). 
+
+Then run `localectl set-keymap tarmakN` (where `N` is numbers 1 - 4). 
+
+##### Tested on Arch Linux (10/10/2018) with `/etc/vconsole.conf` default `KEYMAP=us`. 
+
+
 The goal is to spend 1 - 3 weeks on each tarmak "level" and then finally to a full Colemak layout. 
 
 ##### Further reading
